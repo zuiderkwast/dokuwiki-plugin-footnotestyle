@@ -1,0 +1,9 @@
+# General Plugin Info do not edit
+base   footnotestyle
+author Viktor Söderqvist
+email  viktor@zuiderkwast.se
+date   2010-05-11
+name   Footnote Style Plugin
+desc   Change the appearance of footnotes
+url    http://www.zuiderkwast.se/dokuwiki/footnotestyle
+
